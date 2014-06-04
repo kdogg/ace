@@ -1,7 +1,1 @@
-declare var themes;
-
-declare module "themelist" {
-    export = themes;
-}
-
-
+/home/ken/WTS/wtswiki/d.ts/themelist.d.ts
