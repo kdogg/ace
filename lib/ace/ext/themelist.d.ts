@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/themelist.d.ts
+../../../../../d.ts/themelist.d.ts
